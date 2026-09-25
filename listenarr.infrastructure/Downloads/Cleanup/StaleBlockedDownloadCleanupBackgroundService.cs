@@ -8,7 +8,6 @@
  * (at your option) any later version.
  */
 
-using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
 namespace Listenarr.Infrastructure.Downloads.Cleanup;
